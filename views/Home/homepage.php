@@ -12,7 +12,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>BooksMania</h1>
+            <h1>Simple Library</h1>
             <div>
                 <button class="btn" onclick="location.href='/addnewbook'">Add New Book</button>
                 <button class="btn" onclick="location.href='/logout'">Logout </button>
